@@ -13,16 +13,20 @@
       "logo": "mdi:language-css3"
     },
     {
-      "text": "PHP",
-      "logo": "mdi:language-php"
+      "text": "Node.js",
+      "logo": "mdi:nodejs"
     },
     {
-      "text": "Astro",
-      "logo": "simple-icons:astro"
+      "text": "Python",
+      "logo": "simple-icons:python"
     },
     {
       "text": "Tailwind CSS",
       "logo": "mdi:tailwind"
+    },
+    {
+      "text": "React",
+      "logo": "mdi:react"
     }
   ],
   "Development Tools": [
@@ -45,14 +49,22 @@
       "logo": "cib:cloudflare"
     },
     {
-      "text": "Netlify",
-      "logo": "cib:netlify"
+      "text": "AWS",
+      "logo": "mdi:aws"
+    },
+    {
+      "text": "Azure",
+      "logo": "mdi:azure"
     }
   ],
   "Operating Systems": [
     {
       "text": "Windows",
       "logo": "mdi:windows"
+    },
+    {
+      "text": "Arch Linux",
+      "logo": "mdi:arch"
     },
     {
       "text": "Ubuntu",
@@ -69,8 +81,12 @@
       "logo": "mdi:language-go"
     },
     {
-      "text": "Node.js",
-      "logo": "mdi:nodejs"
+      "text": "Terraform",
+      "logo": "mdi:terraform"
+    },
+    {
+      "text": "Ansible",
+      "logo": "mdi:ansible"
     }
   ],
   "Web Servers": [
@@ -91,6 +107,10 @@
     {
       "text": "MongoDB",
       "logo": "cib:mongodb"
+    },
+    {
+      "text": "Postgresql",
+      "logo": "cib:postgresql"
     }
   ],
   "Other Software": [

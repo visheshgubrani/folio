@@ -1,5 +1,5 @@
 {
-  "name": "cojocarudavid.me",
+  "name": "portfolio website",
   "version": "1.0.1",
   "scripts": {
     "dev": "astro dev",
@@ -46,13 +46,6 @@
     "node": ">=16.0.0"
   },
   "browserslist": "> 0.25%, not dead",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cojocaru-david/cojocarudavid.me.git"
-  },
-  "bugs": {
-    "url": "https://github.com/cojocaru-david/cojocarudavid.me/issues"
-  },
-  "homepage": "https://cojocarudavid.me",
+  "homepage": "https://visheshgubrani.com",
   "private": false
 }
