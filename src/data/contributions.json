@@ -1,43 +1,51 @@
 [
   {
-    "name": "AWS EBS Snapshot Manager",
+    "name": "AWS EBS Snapshot Automation",
     "stars": 1,
     "url": "https://github.com/visheshgubrani/aws-cost-optimization",
-    "description": "AWS Cost Optimization",
-    "languages": ["NodeJS", "JSON", "Serverless", "AWS", "Terraform"],
-    "role": "author"
-  },
-  {
-    "name": " URL Shortner",
-    "stars": 1,
-    "url": "https://github.com/visheshgubrani/url-shortner",
-    "website": "https://shrtnn.xyz",
-    "description": "Serverless URL Shortner",
+    "description": "A serverless solution for automating AWS EBS snapshot management to optimize storage costs and improve backup efficiency. Uses event-driven architecture for scheduling and lifecycle management.",
     "languages": [
-      "NodeJS",
-      "Kubernetes",
-      "GCP",
-      "MongoDB",
-      "Helm",
-      "ArgoCD",
-      "Docker",
-      "Github Actions"
+      "Python",
+      "AWS Lambda",
+      "CloudWatch Events",
+      "Infrastructure as Code",
+      "Cost Optimization",
+      "DevOps"
     ],
     "role": "author"
   },
   {
-    "name": "Movies App",
-    "stars": 2,
+    "name": "Kubernetes-Powered URL Shortener",
+    "stars": 1,
+    "url": "https://github.com/visheshgubrani/url-shortner",
+    "description": "A scalable, high-availability URL shortener deployed on Kubernetes with a CI/CD pipeline, monitoring, and Helm-based deployment.",
+    "languages": [
+      "Node.js",
+      "Kubernetes",
+      "MongoDB",
+      "Helm",
+      "ArgoCD",
+      "Docker",
+      "GitHub Actions",
+      "Observability"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "Serverless Movies API",
+    "stars": 1,
     "url": "https://github.com/visheshgubrani/serverless_movies_api",
     "website": "https://themoviesapi.xyz",
-    "description": "Serverless Movies Api",
+    "description": "A fully serverless REST API for managing movie data, built with AWS Lambda, API Gateway, and DynamoDB. Infrastructure as Code (IaC) managed via Terraform.",
     "languages": [
-      "AWS",
-      "Serverless",
-      "NodeJS",
       "TypeScript",
-      "Lambda",
-      "React"
+      "AWS Lambda",
+      "API Gateway",
+      "React",
+      "Terraform",
+      "GitHub Actions",
+      "Serverless Framework",
+      "DynamoDB"
     ],
     "role": "author"
   },
@@ -46,24 +54,50 @@
     "stars": 1,
     "url": "https://github.com/visheshgubrani/serverless-url-shortner",
     "website": "https://shrtnn.xyz",
-    "description": "Serverless URL Shortner",
-    "languages": ["NodeJS", "JSON", "Serverless", "AWS", "Terraform"],
+    "description": " A cost-effective, serverless URL shortener leveraging AWS Lambda and DynamoDB for high performance and low operational overhead.",
+    "languages": [
+      "Node.js",
+      "AWS Lambda",
+      "DynamoDB",
+      "API Gateway",
+      "Terraform",
+      "Serverless Architecture",
+      "IaC"
+    ],
     "role": "author"
   },
   {
-    "name": "3-Tier-Deployment",
+    "name": "Cloud Resume Challenge",
     "stars": 1,
     "url": "https://github.com/visheshgubrani/cloud-resume-challenge",
-    "description": "Deployed on Kubernetes with ArgoCD",
-    "languages": ["Python", "Resume", "Serverless", "AWS", "Terraform"],
+    "description": "A cloud-native resume built using AWS services and deployed on Kubernetes with ArgoCD, following best DevOps and CI/CD practices",
+    "languages": [
+      "Python",
+      "AWS S3",
+      "CloudFront",
+      "Lambda",
+      "DynamoDB",
+      "Terraform",
+      "GitHub Actions",
+      "Infrastructure as Code"
+    ],
     "role": "author"
   },
   {
-    "name": "3-Tier-Deployment",
+    "name": "3-Tier Cloud Deployment",
     "stars": 1,
     "url": "https://github.com/visheshgubrani/3-tier-deployment",
-    "description": "Deployed on Kubernetes with ArgoCD",
-    "languages": ["NodeJS", "JSON", "Serverless", "AWS", "Terraform"],
+    "description": "A production-grade 3-tier web application deployed on AWS using Kubernetes, ArgoCD, and Terraform, demonstrating scalable and secure cloud architecture.",
+    "languages": [
+      "Node.js",
+      "Kubernetes",
+      "ArgoCD",
+      "GitOps",
+      "Terraform",
+      "Microservices",
+      "High Availability",
+      "Prometheus"
+    ],
     "role": "author"
   }
 ]
