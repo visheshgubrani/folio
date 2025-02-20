@@ -1,10 +1,36 @@
 [
   {
+    "name": "AWS EBS Snapshot Manager",
+    "stars": 1,
+    "url": "https://github.com/visheshgubrani/aws-cost-optimization",
+    "description": "AWS Cost Optimization",
+    "languages": ["NodeJS", "JSON", "Serverless", "AWS", "Terraform"],
+    "role": "author"
+  },
+  {
+    "name": " URL Shortner",
+    "stars": 1,
+    "url": "https://github.com/visheshgubrani/url-shortner",
+    "website": "https://shrtnn.xyz",
+    "description": "Serverless URL Shortner",
+    "languages": [
+      "NodeJS",
+      "Kubernetes",
+      "GCP",
+      "MongoDB",
+      "Helm",
+      "ArgoCD",
+      "Docker",
+      "Github Actions"
+    ],
+    "role": "author"
+  },
+  {
     "name": "Movies App",
     "stars": 2,
     "url": "https://github.com/visheshgubrani/serverless_movies_api",
     "website": "https://themoviesapi.xyz",
-    "description": "Blazing fast personal website built with Astro.js and styled with Tailwind CSS.",
+    "description": "Serverless Movies Api",
     "languages": [
       "AWS",
       "Serverless",
@@ -16,11 +42,27 @@
     "role": "author"
   },
   {
-    "name": "URL Shortner",
+    "name": "Serverless URL Shortner",
     "stars": 1,
     "url": "https://github.com/visheshgubrani/serverless-url-shortner",
     "website": "https://shrtnn.xyz",
-    "description": "David Dark is a dark theme for VS Code. It is based on the github theme and the default dark theme. It is designed to be easy on the eyes and to be used for long periods of time.",
+    "description": "Serverless URL Shortner",
+    "languages": ["NodeJS", "JSON", "Serverless", "AWS", "Terraform"],
+    "role": "author"
+  },
+  {
+    "name": "3-Tier-Deployment",
+    "stars": 1,
+    "url": "https://github.com/visheshgubrani/cloud-resume-challenge",
+    "description": "Deployed on Kubernetes with ArgoCD",
+    "languages": ["Python", "Resume", "Serverless", "AWS", "Terraform"],
+    "role": "author"
+  },
+  {
+    "name": "3-Tier-Deployment",
+    "stars": 1,
+    "url": "https://github.com/visheshgubrani/3-tier-deployment",
+    "description": "Deployed on Kubernetes with ArgoCD",
     "languages": ["NodeJS", "JSON", "Serverless", "AWS", "Terraform"],
     "role": "author"
   }
